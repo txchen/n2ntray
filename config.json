@@ -1,0 +1,15 @@
+{
+  "configs": [
+    {
+      "name": "myn2n",
+      "path": "d:\\n2ntray",
+      "cmd": "edge.exe -d n2ntun -a <N2NIP> -l <N2N_SUPERNODE_IP:PORT> -k <PASSWORD> -f -c <COMMUNITY_NAME> -r",
+      "working_directory": "",
+      "addition_env_path": "",
+      "use_builtin_console": false,
+      "is_gui": false,
+      "enabled": false,
+      "require_admin": true
+    }
+  ]
+}
